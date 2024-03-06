@@ -2,7 +2,7 @@
 
 ## DEPRECATION WARNING
 
-> ⚠️ This repository is considered deprecated and will be archived in March 2024. For the new version of this tool please go to [meteor-admin-sdk-example-app](https://github.com/shopware/meteor-admin-sdk-example-app).
+> ⚠️ This repository is considered deprecated and will be archived in March 2024. For the new version of this tool please go to [meteor-admin-sdk-example-app](https://github.com/shopware/meteor/tree/main/packages/admin-sdk-example-app).
 
 ## Old Description
 
